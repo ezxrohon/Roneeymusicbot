@@ -3,12 +3,12 @@
 # All Rights Reserved.
 #
 # Project      : ArtistBots API Telegram Music Bot
-# Powered By   : Ꮢooney
+# Powered By   : Ꮢᴏʜꫝɴ ⁣
 # Type         : API Based Telegram Music Bot
 #
 # Bot          : @ArtistApibot
-# Channel      : https://t.me/artistbots
-# GitHub       : https://github.com/elevenyts
+# Channel      : https://t.me/+wD4qF2cVD2FmNDM1
+# GitHub       : https://github.com/ezxrohon/Roneeymusicbot
 #
 # Unauthorized copying, modification, or redistribution
 # of this source code without permission is prohibited.
