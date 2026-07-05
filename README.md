@@ -325,10 +325,6 @@ cd Elevenyts
 - Use a second ID for the assistant ID 
 ---
 
-### Made with ❤️ by Artist
-
-### Powered by ArtistBots
-
-### © 2026 Elevenyts. All Rights Reserved.
+### Made with ❤️ by Ꮢ ᴏ ʜ ꫝ ɴ ⁣⁣ ꭙ ᴍᴜsɪᴄ˼
 
 </div>
