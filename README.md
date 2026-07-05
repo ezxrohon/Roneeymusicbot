@@ -1,17 +1,12 @@
 <div align="center"> 
 
-<img src="https://files.catbox.moe/zlmv6v.png" width="400">
+<img src="https://graph.org/file/773102aef50e04de2eb62-c9a6e0449bdd5a400b.jpg" width="400">
 
-# 🎵 Elevenyts
+
 
 ### Advanced Telegram Voice Chat Music Bot
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+Elevenyts+REPOSITORY;ADVANCED+TELEGRAM+MUSIC+BOT;HIGH+QUALITY+VOICE+CHAT+STREAMING;MULTI+LANGUAGE+SUPPORT;POWERED+BY+ARTISTBOTS)](https://github.com)
 
-<br>
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/Artistbots)
-[![Support Group](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/elevenytsmusic)
 
 <br>
 
@@ -36,9 +31,9 @@
 
 ---
 
-# 🌟 About Elevenyts
+# 🌟 About Ꮢ ᴏ ʜ ꫝ ɴ ⁣⁣ ꭙ ᴍᴜsɪᴄ˼ ♪
 
-Elevenyts is an advanced Telegram Voice Chat Music Bot built with **Pyrogram**, **PyTgCalls**, and **MongoDB**.
+Ꮢ ᴏ ʜ ꫝ ɴ ⁣⁣ ꭙ ᴍᴜsɪᴄ˼ ♪is an advanced Telegram Voice Chat Music Bot built with **Pyrogram**, **PyTgCalls**, and **MongoDB**.
 
 It allows users to stream high-quality music directly inside Telegram Voice Chats with premium playback performance, playlist management, queue system, admin controls, broadcasting features, statistics tracking, and multi-language support.
 
@@ -258,28 +253,7 @@ git clone https://github.com/elevenyts/Elevenyts
 cd Elevenyts
 ```
 
-## Install Requirements
 
-```bash
-pip3 install -U -r requirements.txt
-```
-
-## Configure Variables
-
-```bash
-nano .env
-```
-
-## Run Bot
-
-```bash
-bash start
-```
-
-or
-
-```bash
-python -m Elevenyts
 ```
 
 ---
@@ -323,24 +297,7 @@ python -m Elevenyts
 
 ---
 
-# 📞 Support & Contact
 
-<div align="center">
-
-## IF YOU FACE ANY ERROR
-
-### SEND SCREENSHOT TO SUPPORT
-
-[![ARTIST](https://files.catbox.moe/kcnahh.png)](https://t.me/Artistbots)
-</p>
-
----
-
-### 📢 Telegram Channel 💬 Support Group
-
-- **Telegram Channel**: [Artist bots](https://t.me/Artistbots)
-- **Support Group**: [Elevenyts Music](https://t.me/elevenytsmusic)
----
 
 # 🔒 Security Notes
 
@@ -356,15 +313,7 @@ python -m Elevenyts
 
 ✔ Keep Logger Group Private
 
----
 
-# ❤️ Credits
-
-- Pyrogram
-- PyTgCalls
-- MongoDB
-- Telegram API
-- ArtistBots
 
 ---
 
